@@ -1,0 +1,5 @@
+/var/log/swerp/*.log {
+    copytruncate
+    missingok
+    notifempty
+}
