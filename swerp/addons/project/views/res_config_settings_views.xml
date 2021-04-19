@@ -60,20 +60,6 @@
                                 </div>
                             </div>
                         </div>
-                        <h2>Time Management</h2>
-                        <div class="row mt16 o_settings_container" name="project_time">
-                            <div class="col-12 col-lg-6 o_setting_box" name="project_time_management">
-                                <div class="o_setting_left_pane">
-                                    <field name="module_project_forecast" widget="upgrade_boolean"/>
-                                </div>
-                                <div class="o_setting_right_pane">
-                                    <label for="module_project_forecast"/>
-                                    <div class="text-muted" name="project_forecast_msg">
-                                        Schedule your teams across projects and estimate deadlines more accurately.
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
                     </div>
                 </xpath>
             </field>
