@@ -1,7 +1,7 @@
 Swerp
 ----
 
-Swerp is a suite of web based open source business apps. Swerp is a work based on the Program Odoo 12.0
+Swerp is a suite of web based open source business apps. Swerp is a work based on the Program Odoo 12.0.
 
 The main Swerp Apps include an <a href="https://www.swerp.it">Open Source CRM</a>,
 <a href="https://www.swerp.it">Website Builder</a>,
